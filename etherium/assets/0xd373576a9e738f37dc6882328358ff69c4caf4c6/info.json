@@ -1,0 +1,33 @@
+{
+    "name": "ZAM",
+    "website": "https://zam.io",
+    "description": "$ZAM is the native token that powers the Zamzam Ecosystem and can be used for transactions on-chain, paying for fees on the network, making cross-border transfers, exchanged, staked, and used for liquidity mining.",
+    "explorer": "https://etherscan.io/token/0xd373576a9e738f37dc6882328358ff69c4caf4c6",
+    "type": "ERC20",
+    "symbol": "ZAM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd373576a9e738f37dc6882328358ff69c4caf4c6",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Zamzam-Technology"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zam_io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/zam_io"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.zam.io/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.zam.io/"
+        }
+    ]
+}

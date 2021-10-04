@@ -1,0 +1,33 @@
+{
+    "name": "ZAM",
+    "website": "https://zam.io",
+    "description": "$ZAM is the native token that powers the Zamzam Ecosystem and can be used for transactions on-chain, paying for fees on the network, making cross-border transfers, exchanged, staked, and used for liquidity mining.",
+    "explorer": "https://bscscan.com/token/0xBbcF57177D8752B21d080bf30a06CE20aD6333F8",
+    "type": "BEP20",
+    "symbol": "ZAM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xBbcF57177D8752B21d080bf30a06CE20aD6333F8",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Zamzam-Technology"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/zam_io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/zam_io"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.zam.io/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.zam.io/"
+        }
+    ]
+}
